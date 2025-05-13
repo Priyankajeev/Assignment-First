@@ -1,0 +1,14 @@
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\bin\Debug\net8.0\Assignment1.exe
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\bin\Debug\net8.0\Assignment1.dll
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1.dll
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll

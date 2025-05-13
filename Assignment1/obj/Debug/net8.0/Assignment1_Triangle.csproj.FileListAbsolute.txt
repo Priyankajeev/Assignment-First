@@ -1,0 +1,14 @@
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\bin\Debug\net8.0\Assignment1_Triangle.exe
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\bin\Debug\net8.0\Assignment1_Triangle.deps.json
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\bin\Debug\net8.0\Assignment1_Triangle.runtimeconfig.json
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\bin\Debug\net8.0\Assignment1_Triangle.dll
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\bin\Debug\net8.0\Assignment1_Triangle.pdb
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1_Triangle.AssemblyInfoInputs.cache
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1_Triangle.AssemblyInfo.cs
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1_Triangle.csproj.CoreCompileInputs.cache
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1_Triangle.dll
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\refint\Assignment1_Triangle.dll
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1_Triangle.pdb
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\Assignment1_Triangle.genruntimeconfig.cache
+D:\DemoPropelMarch2025\Assignment-First\Assignment1\obj\Debug\net8.0\ref\Assignment1_Triangle.dll

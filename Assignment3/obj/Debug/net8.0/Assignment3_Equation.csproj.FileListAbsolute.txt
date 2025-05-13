@@ -1,0 +1,14 @@
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\bin\Debug\net8.0\Assignment3_Equation.exe
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\bin\Debug\net8.0\Assignment3_Equation.deps.json
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\bin\Debug\net8.0\Assignment3_Equation.runtimeconfig.json
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\bin\Debug\net8.0\Assignment3_Equation.dll
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\bin\Debug\net8.0\Assignment3_Equation.pdb
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\obj\Debug\net8.0\Assignment3_Equation.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\obj\Debug\net8.0\Assignment3_Equation.AssemblyInfoInputs.cache
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\obj\Debug\net8.0\Assignment3_Equation.AssemblyInfo.cs
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\obj\Debug\net8.0\Assignment3_Equation.csproj.CoreCompileInputs.cache
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\obj\Debug\net8.0\Assignment3_Equation.dll
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\obj\Debug\net8.0\refint\Assignment3_Equation.dll
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\obj\Debug\net8.0\Assignment3_Equation.pdb
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\obj\Debug\net8.0\Assignment3_Equation.genruntimeconfig.cache
+D:\DemoPropelMarch2025\Assignment-First\Assignment3\obj\Debug\net8.0\ref\Assignment3_Equation.dll
